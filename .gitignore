@@ -1,0 +1,8 @@
+.git
+.idea
+train_sample/
+runs/
+**/train_sample/
+**/train_sample
+*.wav
+__pycache__
